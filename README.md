@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![Zhi's Github stats](https://github-readme-stats-one-bice.vercel.app/api?username=yzrobot&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
-![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=yzrobot&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
+![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=yzrobot&langs_count=3&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
