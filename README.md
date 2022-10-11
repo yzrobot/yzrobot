@@ -1,5 +1,7 @@
 ### Hi there 👋 :robot:
 
+(the organization contribution is not counted)
+
 <!--
 **yzrobot/yzrobot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
