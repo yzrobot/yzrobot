@@ -1,7 +1,5 @@
 ### Hi there 👋 :robot:
 
-(the organization contribution is not counted)
-
 <!--
 **yzrobot/yzrobot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Zhi's Github stats](https://github-readme-stats-one-bice.vercel.app/api?username=yzrobot&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
-![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=yzrobot&langs_count=3&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
+![Zhi's Github stats](https://github-readme-stats-one-bice.vercel.app/api?username=yzrobot&show_icons=true&include_all_commits=true&count_private=true&role=OWNER)
+![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=yzrobot&langs_count=3&role=OWNER)
+
+The above statistics do not include organization repositories.
