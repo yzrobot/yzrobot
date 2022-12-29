@@ -15,7 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Zhi's Github stats](https://github-readme-stats.vercel.app/api?username=yzrobot&show_icons=true&include_all_commits=true&count_private=true&role=OWNER)
+![Zhi's Github stats](https://awesome-github-stats.azurewebsites.net/user-stats/yzrobot?cardType=level)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yzrobot&langs_count=3&role=OWNER)
-
-The statistics above temporarily exclude organization repositories due to provider code changes.
